@@ -1,0 +1,4 @@
+credentials.json
+public/*
+!public/.gitkeep
+node_modules/*
